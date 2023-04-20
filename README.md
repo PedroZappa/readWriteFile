@@ -19,7 +19,7 @@ The `readWriteFile.c` program performs the following actions:
 6. Prints the contents of the file to the console.
 7. Closes the file.
 
-The program uses `fopen`, `fputs`, `fgets`, and `fclose` functions from the `stdio.h` library to manipulate the file. These functions provide a simple and straightforward way to work with files in C. [Source 3](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+The program uses `fopen`, `fputs`, `fgets`, and `fclose` functions from the `stdio.h` library to manipulate the file. These functions provide a simple and straightforward way to work with files in C.
 
 ## Usage
 
